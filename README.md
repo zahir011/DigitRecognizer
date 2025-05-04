@@ -26,7 +26,7 @@ Matplotlib (Visualization)
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/DigitRecognizer.git
+git clone https://github.com/zahir011/DigitRecognizer.git
 cd DigitRecognizer
 Install dependencies:
 
